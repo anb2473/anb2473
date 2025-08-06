@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @anb2473
-- 👀 I’m interested in workflow tools, server orchestration, and trading.
-- 🌱 I’m currently learning database storage systems, interpreters, and trading automation.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Austin;I'm+working+on+database+storage,+buisiness+logic,+version+control,+interpreters,+and+trading&width=1250)](https://git.io/typing-svg)
 - 💞️ Feel free to collaborate on any of my projects..
 - 📫 Reach out:
 
@@ -12,6 +10,12 @@
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </p>
 
 - ⚡ Fun fact: I dont use arch btw.
 
