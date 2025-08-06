@@ -2,9 +2,9 @@
 
 ![Austin's GitHub contribution graph](https://activity-graph.vercel.app/graph?username=anb2473&theme=react-dark&hide_border=true&custom_title=Austin's%20GitHub%20Activity)
 
-## 🌱 What I'm learning
+<h2 align="center"> 🌱 What I'm learning </h2>
 
-<table>
+<table align="center">
   <tr>
     <td>💾</td>
     <td><strong>Database systems</strong></td>
@@ -27,9 +27,11 @@
   </tr>
 </table>
 
-## 🛠️ Tools I Use
+<h2 align="center"> 🛠️ Tools I Use </h2>
 
-<p align="left" style="display:flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<br>
+
+<p align="center" style="display:flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
@@ -50,11 +52,9 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/markdown.svg" alt="Markdown" width="40" height="40" style="background:#fff; border-radius:6px; padding:6px;"/>
 </p>
 
-## ⚡ Fun fact:
+<h2 align="center"> ⚡ Fun fact: I don't use arch btw. </h2>
 
-I dont use arch btw.
-
-## 🧩 Fun projects I'm working on:
+<h2 align="center"> 🧩 Projects I'm working on </h2>
 
 💞️ Feel free to collab on any of these projects btw
 
