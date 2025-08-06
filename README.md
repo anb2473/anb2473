@@ -59,7 +59,9 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/markdown.svg" alt="Markdown" width="40" height="40" style="background:#fff; border-radius:6px; padding:6px;"/>
 </p>
 
-- ⚡ Fun fact: I dont use arch btw.
+## ⚡ Fun fact:
+
+I dont use arch btw.
 
 ![anb2473's GitHub stats](https://github-readme-stats.vercel.app/api?username=anb2473&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=default)
 
