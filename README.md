@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Austin&size=30)](https://git.io/typing-svg)
 
+![Austin's GitHub contribution graph](https://activity-graph.vercel.app/graph?username=anb2473&theme=react-dark&hide_border=true&custom_title=Austin's%20GitHub%20Activity)
+
 ## 🌱 What I'm learning
 
 <table>
@@ -62,8 +64,6 @@
 ## ⚡ Fun fact:
 
 I dont use arch btw.
-
-![anb2473's GitHub stats](https://github-readme-stats.vercel.app/api?username=anb2473&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=default)
 
 ## 🧩 Fun projects I'm working on:
 
