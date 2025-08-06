@@ -21,5 +21,5 @@
 
 Some of these arent done yet.
 
-- 🧠 [flint-engine](https://github.com/anb2473/flint-engine) — data base designed to be extremely light weight and minimalist
+- 💾 [flint-engine](https://github.com/anb2473/flint-engine) — database designed to be extremely light weight and minimalist
 - 🤖 [kalshi-autonomous-trader](https://github.com/anb2473/kalshi-autonomous-trader) - a autonomous trader for kalshi
