@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>🏢</td>
-    <td><strong>Buisiness logic tools</strong></td>
+    <td><strong>Business logic tools</strong></td>
   </tr>
   <tr>
     <td>🔄</td>
@@ -26,17 +26,6 @@
     <td><strong>Autonomous trading</strong></td>
   </tr>
 </table>
-
-## 📫 Reach out:
-
-<p align="left">
-  <a href="mailto:austinnabilblass@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/12024001681" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
 
 ## 🛠️ Tools I Use
 
@@ -72,4 +61,20 @@ I dont use arch btw.
 **Some of these aren't finished yet**
 
 - 💾 [flint-engine](https://github.com/anb2473/flint-engine) — database designed to be extremely light weight and minimalist
-- 🤖 [kalshi-autonomous-trader](https://github.com/anb2473/kalshi-autonomous-trader) - a autonomous trader for kalshi
+- 🤖 [kalshi-autonomous-trader](https://github.com/anb2473/kalshi-autonomous-trader) - an autonomous trader for kalshi
+
+<h2 align="center">📫 Reach out:</h2>
+
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="mailto:austinnabilblass@gmail.com" target="_blank" style="padding: 8px;">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/12024001681" target="_blank" style="padding: 8px;">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="mailto:yourprotonemail@proton.me" target="_blank" style="padding: 8px;">
+    <img alt="Proton Mail" src="https://img.shields.io/badge/Proton%20Mail-8B8BFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+</p>
