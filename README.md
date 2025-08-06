@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Austin;I'm+working+on+database+storage,+buisiness+logic,+version+control,+interpreters,+and+trading&width=1250)](https://git.io/typing-svg)
-- 💞️ Feel free to collaborate on any of my projects..
-- 📫 Reach out:
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Austin&repeat=false)](https://git.io/typing-svg)
+I'm working on 💾 database+storage, 🏢 buisiness logic, 🔄 version+control, ⚙️ interpreters, and 📈 trading
+
+💞️ Feel free to collaborate on any of my projects
+
+📫 Reach out:
 
 <p align="left">
   <a href="mailto:austinnabilblass@gmail.com" target="_blank">
