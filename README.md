@@ -54,14 +54,35 @@
 
 <h2 align="center"> ⚡ Fun fact: I don't use arch btw. </h2>
 
-<h2 align="center"> 🧩 Projects I'm working on </h2>
+<h2 align="center">🧩 Projects I'm Working On</h2>
 
-💞️ Feel free to collab on any of these projects btw
+<p align="center">
+  💞️ <strong>Feel free to collaborate on any of these projects</strong>
+</p>
 
-**Some of these aren't finished yet**
+<br>
 
-- 💾 [flint-engine](https://github.com/anb2473/flint-engine) — database designed to be extremely light weight and minimalist
-- 🤖 [kalshi-autonomous-trader](https://github.com/anb2473/kalshi-autonomous-trader) - an autonomous trader for kalshi
+<table align="center">
+  <tr>
+    <td>💾</td>
+    <td>
+      <strong><a href="https://github.com/anb2473/flint-engine">flint-engine</a></strong>  
+      — database designed to be extremely lightweight and minimalist  
+      <br>
+      <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square" alt="In progress badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td>
+      <strong><a href="https://github.com/anb2473/kalshi-autonomous-trader">kalshi-autonomous-trader</a></strong>  
+      — an autonomous trader for kalshi  
+      <br>
+      <img src="https://img.shields.io/badge/status-incomplete-red?style=flat-square" alt="Incomplete badge"/>
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="center">📫 Reach out:</h2>
 
