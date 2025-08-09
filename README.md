@@ -57,7 +57,7 @@
 <h2 align="center">🧩 Projects I'm Working On</h2>
 
 <p align="center">
-  💞️ <strong>Feel free to collaborate on any of these projects</strong>
+  💞️ <strong>Feel free to collab on any of these projects btw</strong>
 </p>
 
 <br>
