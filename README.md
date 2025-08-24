@@ -82,10 +82,29 @@
       <strong><a href="https://github.com/anb2473/kalshi-autonomous-trader">kalshi-autonomous-trader</a></strong>  
       — an autonomous trader for kalshi  
       <br>
-      <img src="https://img.shields.io/badge/status-incomplete-red?style=flat-square" alt="Incomplete badge"/>
+      <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square" alt="In progress badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td>🗿</td>
+    <td>
+      <strong><a href="https://github.com/anb2473/obsidian">Obsidian</a></strong>  
+      — an IR (Intermediate Representation) compiler, designed to allow easy construction of a higher level language  
+      <br>
+      <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square" alt="In progress badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td>
+      <strong><a href="https://skill-bytes.netlify.app">Skill Bytes</a></strong>  
+      — a platform to prevent deterioration of programming skills from AI  
+      <br>
+      <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Active badge"/>
     </td>
   </tr>
 </table>
+
 
 <div align="center">
   <p style="color:blue;">
