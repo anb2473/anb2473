@@ -2,6 +2,11 @@
 
 ![Austin's GitHub contribution graph](https://activity-graph.vercel.app/graph?username=anb2473&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity)
 
+<h2 align="center" style="font-size: 20px;">
+  💼 <strong>Portfolio:</strong>  
+  <a href="https://austin-blass.netlify.app" target="_blank">Check out my portfolio</a>
+</h2>
+
 <h2 align="center"> 🌱 What I'm learning </h2>
 
 <table align="center">
