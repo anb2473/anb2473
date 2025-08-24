@@ -86,7 +86,7 @@
     </td>
   </tr>
   <tr>
-    <td>🗿</td>
+    <td>🖥️</td>
     <td>
       <strong><a href="https://github.com/anb2473/obsidian">Obsidian</a></strong>  
       — an IR (Intermediate Representation) compiler, designed to allow easy construction of a higher level language  
@@ -95,7 +95,7 @@
     </td>
   </tr>
   <tr>
-    <td>📚</td>
+    <td>🧠</td>
     <td>
       <strong><a href="https://skill-bytes.netlify.app">Skill Bytes</a></strong>  
       — a platform to prevent deterioration of programming skills from AI  
